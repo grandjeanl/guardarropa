@@ -68,7 +68,8 @@
     "metadatos": {
       "estilo": "urbano",
       "ocasion": "sport",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Buzo Canguro Frisa Gris Melange Logo Levis": {
@@ -77,7 +78,8 @@
     "metadatos": {
       "estilo": "urbano",
       "ocasion": "sport",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Buzo Canguro Frisa Negro": {
@@ -86,7 +88,8 @@
     "metadatos": {
       "estilo": "urbano",
       "ocasion": "sport",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Buzo Cuello Redondo Frisa Beige Arena": {
@@ -95,7 +98,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "dia",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Campera Cuero Negra Capucha Gris Kenneth Cole": {
@@ -104,7 +108,8 @@
     "metadatos": {
       "estilo": "urbano",
       "ocasion": "noche",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "3"
     }
   },
   "Campera Deportiva Acetato Azul Marino Adidas": {
@@ -113,7 +118,8 @@
     "metadatos": {
       "estilo": "deportivo",
       "ocasion": "sport",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Campera Deportiva Algodon Negro Rojo Ferrari": {
@@ -122,7 +128,8 @@
     "metadatos": {
       "estilo": "deportivo",
       "ocasion": "sport",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Campera Deportiva Frisa Azul Negro Adidas": {
@@ -131,7 +138,8 @@
     "metadatos": {
       "estilo": "deportivo",
       "ocasion": "sport",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Campera Gabardina Crudo Tommy Hilfiger": {
@@ -140,7 +148,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "dia",
-      "temporada": "entretiempo"
+      "temporada": "entretiempo",
+      "capa": "3"
     }
   },
   "Campera Inflable Pluma Azul Marino Oscuro Uniqlo": {
@@ -149,7 +158,8 @@
     "metadatos": {
       "estilo": "urbano",
       "ocasion": "dia",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "3"
     }
   },
   "Campera Inflable Pluma Gris Uniqlo": {
@@ -158,7 +168,8 @@
     "metadatos": {
       "estilo": "urbano",
       "ocasion": "dia",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "3"
     }
   },
   "Campera Jean Azul Gastado Zara Man": {
@@ -167,7 +178,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "dia",
-      "temporada": "entretiempo"
+      "temporada": "entretiempo",
+      "capa": "3"
     }
   },
   "Campera Lana Fina Zipper Rayado Azul Gris Tommy Hilfiger": {
@@ -176,7 +188,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "entretiempo"
+      "temporada": "entretiempo",
+      "capa": "2"
     }
   },
   "Campera Lana Fina Zipper Rayado Gris Blanco Tommy Hilfiger": {
@@ -185,7 +198,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "entretiempo"
+      "temporada": "entretiempo",
+      "capa": "2"
     }
   },
   "Campera Polar Softshell Gris Negro The North Face": {
@@ -194,7 +208,8 @@
     "metadatos": {
       "estilo": "deportivo",
       "ocasion": "campo",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "3"
     }
   },
   "Cinturon Cuero Marron Oscuro Hebilla Placa Levis": {
@@ -383,7 +398,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Hilo Fino Gris Melange Logg Hm": {
@@ -392,7 +408,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "entretiempo"
+      "temporada": "entretiempo",
+      "capa": "2"
     }
   },
   "Sweater Lana Cuello Botones Azul Marino Levis": {
@@ -401,7 +418,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Sweater Lana Fina Azul Francia Zara Man": {
@@ -410,7 +428,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Lana Fina Cuello Redondo Crema Zara": {
@@ -419,7 +438,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "noche",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Lana Fina Cuello Redondo Gris Medio Zara": {
@@ -428,7 +448,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "trabajo",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Lana Fina Cuello Redondo Negro Zara": {
@@ -437,7 +458,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "noche",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Lana Fina Cuello V Cruzado Negro Zara Man": {
@@ -446,7 +468,8 @@
     "metadatos": {
       "estilo": "formal",
       "ocasion": "noche",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Lana Fina Rayado Azul Gris Mistral": {
@@ -455,7 +478,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "dia",
-      "temporada": "todo"
+      "temporada": "todo",
+      "capa": "2"
     }
   },
   "Sweater Lana Gruesa Cuello Alto Verde Oliva Massimo Dutti": {
@@ -464,7 +488,8 @@
     "metadatos": {
       "estilo": "formal",
       "ocasion": "noche",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Sweater Lana Gruesa Rayado Azul Francia Marino Levis": {
@@ -473,7 +498,8 @@
     "metadatos": {
       "estilo": "casual",
       "ocasion": "dia",
-      "temporada": "invierno"
+      "temporada": "invierno",
+      "capa": "2"
     }
   },
   "Sweater Lana Gruesa Rayado Azul Gris Levis": {
