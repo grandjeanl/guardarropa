@@ -179,7 +179,7 @@
       "estilo": "casual",
       "ocasion": "dia",
       "temporada": "entretiempo",
-      "capa": "3"
+      "capa": "2"
     }
   },
   "Campera Lana Fina Zipper Rayado Azul Gris Tommy Hilfiger": {
@@ -504,7 +504,13 @@
   },
   "Sweater Lana Gruesa Rayado Azul Gris Levis": {
     "archivo": "sweater_lana_gruesa_rayado_azul_gris_levis.jpeg",
-    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/sweater_lana_gruesa_rayado_azul_gris_levis.jpeg"
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/sweater_lana_gruesa_rayado_azul_gris_levis.jpeg",
+    "metadatos": {
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "invierno",
+      "capa": "2"
+    }
   },
   "Zapatillas Converse Cuero Negro Suela Blanca": {
     "archivo": "zapatillas_converse_cuero_negro_suela_blanca.jpeg",
