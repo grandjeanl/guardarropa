@@ -586,6 +586,16 @@
       "temporada": "todo"
     }
   },
+  "Boina Tejida Beige Lana": {
+    "archivo": "boina_tejida_beige_lana.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/boina_tejida_beige_lana.jpeg",
+    "metadatos": {
+      "categoria": "accesorio",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "invierno"
+    }
+  },
   "Boina Tejida Bordo Lana": {
     "archivo": "boina_tejida_bordo_lana.jpeg",
     "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/boina_tejida_bordo_lana.jpeg",
