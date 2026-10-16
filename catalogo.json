@@ -565,5 +565,35 @@
       "ocasion": "dia",
       "temporada": "todo"
     }
+  },
+  "Anteojos Rayban Aviador Dorado Negro": {
+    "archivo": "anteojos_rayban_aviador_dorado_negro.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/anteojos_rayban_aviador_dorado_negro.jpeg",
+    "metadatos": {
+      "categoria": "accesorio",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo"
+    }
+  },
+  "Anteojos Rayban Rectangulares Negro Mate": {
+    "archivo": "anteojos_rayban_rectangulares_negro_mate.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/anteojos_rayban_rectangulares_negro_mate.jpeg",
+    "metadatos": {
+      "categoria": "accesorio",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "todo"
+    }
+  },
+  "Boina Tejida Bordo Lana": {
+    "archivo": "boina_tejida_bordo_lana.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/boina_tejida_bordo_lana.jpeg",
+    "metadatos": {
+      "categoria": "accesorio",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "invierno"
+    }
   }
 }
