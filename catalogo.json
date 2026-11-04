@@ -605,5 +605,45 @@
       "ocasion": "dia",
       "temporada": "invierno"
     }
+  },
+  "Bermuda Cargo Camuflada Gris Stone": {
+    "archivo": "bermuda_cargo_camuflada_gris_stone.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/bermuda_cargo_camuflada_gris_stone.jpeg",
+    "metadatos": {
+      "categoria": "inferior",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano"
+    }
+  },
+  "Bermuda Cargo Gabardina Beige": {
+    "archivo": "bermuda_cargo_gabardina_beige.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/bermuda_cargo_gabardina_beige.jpeg",
+    "metadatos": {
+      "categoria": "inferior",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano"
+    }
+  },
+  "Bermuda Cargo Gabardina Negro": {
+    "archivo": "bermuda_cargo_gabardina_negro.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/bermuda_cargo_gabardina_negro.jpeg",
+    "metadatos": {
+      "categoria": "inferior",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano"
+    }
+  },
+  "Bermuda Cargo Gabardina Verde Militar Cinto": {
+    "archivo": "bermuda_cargo_gabardina_verde_militar_cinto.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/bermuda_cargo_gabardina_verde_militar_cinto.jpeg",
+    "metadatos": {
+      "categoria": "inferior",
+      "estilo": "casual",
+      "ocasion": "campo",
+      "temporada": "verano"
+    }
   }
 }
