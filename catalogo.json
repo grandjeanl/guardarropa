@@ -645,5 +645,323 @@
       "ocasion": "campo",
       "temporada": "verano"
     }
+  },
+  "Faja Tejida Artesanal Beige Marron": {
+    "archivo": "faja_tejida_artesanal_beige_marron.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/faja_tejida_artesanal_beige_marron.jpeg",
+    "metadatos": {
+      "categoria": "accesorio",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo"
+    }
+  },
+  "Poncho Tejido Beige Rayas Marron": {
+    "archivo": "poncho_tejido_beige_rayas_marron.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/poncho_tejido_beige_rayas_marron.jpeg",
+    "metadatos": {
+      "categoria": "abrigo",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "invierno",
+      "capa": "3"
+    }
+  },
+  "Remera Algodon Blanca Estampa Forget Reality": {
+    "archivo": "remera_algodon_blanca_estampa_forget_reality.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_blanca_estampa_forget_reality.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Azul Acero": {
+    "archivo": "remera_algodon_cuello_redondo_azul_acero.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_azul_acero.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Blanca": {
+    "archivo": "remera_algodon_cuello_redondo_blanca.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_blanca.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Blanca Estampa": {
+    "archivo": "remera_algodon_cuello_redondo_blanca_estampa.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_blanca_estampa.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Gris Melange": {
+    "archivo": "remera_algodon_cuello_redondo_gris_melange.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_gris_melange.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Gris Topo": {
+    "archivo": "remera_algodon_cuello_redondo_gris_topo.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_gris_topo.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Malva Grisaceo": {
+    "archivo": "remera_algodon_cuello_redondo_malva_grisaceo.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_malva_grisaceo.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Marron Primark": {
+    "archivo": "remera_algodon_cuello_redondo_marron_primark.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_marron_primark.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Mostaza": {
+    "archivo": "remera_algodon_cuello_redondo_mostaza.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_mostaza.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Negro": {
+    "archivo": "remera_algodon_cuello_redondo_negro.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_negro.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Negro Divided": {
+    "archivo": "remera_algodon_cuello_redondo_negro_divided.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_negro_divided.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello Redondo Negro Liso": {
+    "archivo": "remera_algodon_cuello_redondo_negro_liso.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_redondo_negro_liso.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Amarillo Claro": {
+    "archivo": "remera_algodon_cuello_v_amarillo_claro.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_amarillo_claro.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Blanca": {
+    "archivo": "remera_algodon_cuello_v_blanca.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_blanca.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Gris Gap": {
+    "archivo": "remera_algodon_cuello_v_gris_gap.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_gris_gap.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "trabajo",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Gris Melange": {
+    "archivo": "remera_algodon_cuello_v_gris_melange.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_gris_melange.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Malva Grisaceo": {
+    "archivo": "remera_algodon_cuello_v_malva_grisaceo.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_malva_grisaceo.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Negro Hm": {
+    "archivo": "remera_algodon_cuello_v_negro_hm.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_negro_hm.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "trabajo",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Negro Narrow": {
+    "archivo": "remera_algodon_cuello_v_negro_narrow.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_negro_narrow.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "trabajo",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Cuello V Negro Oscuro": {
+    "archivo": "remera_algodon_cuello_v_negro_oscuro.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_cuello_v_negro_oscuro.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "todo",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Estampa Levis Naranja": {
+    "archivo": "remera_algodon_estampa_levis_naranja.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_estampa_levis_naranja.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Estampa Mallorca Bordo": {
+    "archivo": "remera_algodon_estampa_mallorca_bordo.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_estampa_mallorca_bordo.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Estampa Skate Blanca": {
+    "archivo": "remera_algodon_estampa_skate_blanca.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_estampa_skate_blanca.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Estampa Universidad Cordoba": {
+    "archivo": "remera_algodon_estampa_universidad_cordoba.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_estampa_universidad_cordoba.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Gris Oscuro Estampa Levis": {
+    "archivo": "remera_algodon_gris_oscuro_estampa_levis.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_gris_oscuro_estampa_levis.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Naranja Estampa Brooksfield": {
+    "archivo": "remera_algodon_naranja_estampa_brooksfield.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_naranja_estampa_brooksfield.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "urbano",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Algodon Rayada Azul Blanca": {
+    "archivo": "remera_algodon_rayada_azul_blanca.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_algodon_rayada_azul_blanca.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
   }
 }
