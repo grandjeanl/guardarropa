@@ -974,5 +974,71 @@
       "temporada": "verano",
       "capa": "1"
     }
+  },
+  "Musculosa Algodon Blanca": {
+    "archivo": "musculosa_algodon_blanca.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/musculosa_algodon_blanca.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Musculosa Algodon Bolsillo Azul Divided": {
+    "archivo": "musculosa_algodon_bolsillo_azul_divided.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/musculosa_algodon_bolsillo_azul_divided.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Musculosa Algodon Gris Melange Hm": {
+    "archivo": "musculosa_algodon_gris_melange_hm.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/musculosa_algodon_gris_melange_hm.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Musculosa Algodon Negra Estampa Everlast": {
+    "archivo": "musculosa_algodon_negra_estampa_everlast.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/musculosa_algodon_negra_estampa_everlast.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "deportivo",
+      "ocasion": "sport",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Sin Mangas Algodon Negra": {
+    "archivo": "remera_sin_mangas_algodon_negra.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_sin_mangas_algodon_negra.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "casual",
+      "ocasion": "dia",
+      "temporada": "verano",
+      "capa": "1"
+    }
+  },
+  "Remera Sin Mangas Capucha Negra Outshock": {
+    "archivo": "remera_sin_mangas_capucha_negra_outshock.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_sin_mangas_capucha_negra_outshock.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "deportivo",
+      "ocasion": "sport",
+      "temporada": "verano",
+      "capa": "1"
+    }
   }
 }
