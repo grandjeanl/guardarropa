@@ -1040,5 +1040,16 @@
       "temporada": "verano",
       "capa": "1"
     }
+  },
+  "Remera Sin Mangas Algodon Blanca Decathlon": {
+    "archivo": "remera_sin_mangas_algodon_blanca_decathlon.jpeg",
+    "url": "https://raw.githubusercontent.com/grandjeanl/guardarropa/main/fotos/remera_sin_mangas_algodon_blanca_decathlon.jpeg",
+    "metadatos": {
+      "categoria": "remera",
+      "estilo": "deportivo",
+      "ocasion": "sport",
+      "temporada": "verano",
+      "capa": "1"
+    }
   }
 }
